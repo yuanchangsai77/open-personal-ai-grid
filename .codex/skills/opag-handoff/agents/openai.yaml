@@ -1,0 +1,4 @@
+interface:
+  display_name: "OPAG Handoff"
+  short_description: "Continue development in the OPAG repo safely."
+  default_prompt: "Use this skill to inspect the OPAG repo, understand the current minimal agent implementation, and continue development without breaking the existing demo flow."
